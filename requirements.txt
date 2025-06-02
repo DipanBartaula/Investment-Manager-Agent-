@@ -1,0 +1,14 @@
+Flask==2.2.5
+requests==2.31.0
+openai==0.27.8
+apscheduler==3.10.1
+python-dotenv==1.0.0
+pandas==2.1.2
+numpy==1.27.4
+scipy==1.11.2
+# (Optional) Technical-analysis libraries
+ta-lib==0.4.24       # or pandas_ta
+# (Optional) yfinance for real data
+yfinance==0.2.29
+# (Optional) websockets if you choose WS for A2A
+websockets==11.0.3

@@ -1,0 +1,4 @@
+Flask==2.2.5
+jsonrpcserver==5.1.0
+yfinance==0.2.29
+pandas==2.1.2
