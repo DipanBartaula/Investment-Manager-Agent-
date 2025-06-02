@@ -51,3 +51,5 @@ This project demonstrates a fully event-driven, multi-agent “Investment Manage
 1. **Install Top-Level Dependencies**  
    ```bash
    pip install -r requirements.txt
+
+**Anyone conributing in this open source repo is welcomed to make this agent more efficient and usable in the real market scenario**  
